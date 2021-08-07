@@ -3,7 +3,7 @@
 <br>
 <div align="center">
 
-![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&include_all_commits=true&theme=dracula)
+![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
 
 </div>
 <br>
