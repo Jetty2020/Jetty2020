@@ -3,7 +3,7 @@
 <br>
 <div align="center">
 
-![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
+![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&count_private=true&include_all_commits=true)
 
 </div>
 <br>
@@ -44,6 +44,7 @@
 <br>
 <br>
 <h3 align="center"> 🧸 Me 🧸 </h3>
+<br>
 <p align="center">
   <a href="https://velog.io/@do_dadu"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@do_dadu"/></a>&nbsp
   <a href="mailto:kmclo2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
