@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JeongHoon%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <br>
-<div align="center">
-
-<!-- ![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&count_private=true&include_all_commits=true) -->
-
-</div>
 <!-- <br> -->
 <!-- <br> -->
 <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -32,13 +27,22 @@
 </p>
 <br>
 <br>
+<h3 align="center">🦄 GitHub Stats 🦄</h3>
+<br>
+<div align="center">
+
+![Jetty2020's github stats](https://github-readme-stats.vercel.app/api?username=Jetty2020&show_icons=true&count_private=true&include_all_commits=true)
+![Jetty2020's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jetty2020&hide_border=true&layout=compact)
+
+<br>
+<br>
+</div>
 <h3 align="center">🪄 Blog 🪄</h3>
 <br>
 <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=do_dadu&tag=React)](https://velog.io/@do_dadu)
 
-  
 </div>
   
 <br>
